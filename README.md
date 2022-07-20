@@ -3,6 +3,15 @@
 
 In this I have implemented a Inspection Form in a Company, where the workers will upload the status of their inspection and then it will store in the company database.
 
+### Benifits of JsonPowerDB
+- Server side Native NoSQL, best query performance.
+- High Performance
+- Schema free
+- Multiple security layers
+- Light weight and easy to use
+
+
+
 ### **Inspection Form:**
 
 <img width="1384" alt="Screenshot 2022-07-20 at 6 21 11 PM" src="https://user-images.githubusercontent.com/70621941/179986746-fce5fa80-d4fa-49ab-b909-2fc5ae685877.png">
