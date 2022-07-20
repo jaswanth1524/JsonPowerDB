@@ -7,7 +7,7 @@ In this I have implemented a Inspection Form in a Company, where the workers wil
 
 <img width="1384" alt="Screenshot 2022-07-20 at 6 21 11 PM" src="https://user-images.githubusercontent.com/70621941/179986746-fce5fa80-d4fa-49ab-b909-2fc5ae685877.png">
 
-It is the picture of the Inspection Form
+The details are being asked in this way.
 
 ### **Company Database**
 
